@@ -1,6 +1,7 @@
 **Nombre:** Emmanuel Meneses Sepúlveda
+---
 **Codigo:** 192621
-
+_________________________________________________________________________________
 # Analizador de Secuencias
 
 **Segundo Parcial — Programación I (Java)**  
